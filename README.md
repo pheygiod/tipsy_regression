@@ -14,7 +14,7 @@ Building a simple linear regression model to explore the relationship between wi
 # General Information
 I’m uploading the code of the linear regression model I trained on wine data!💻🍷
 
-The goal was to explore the correlation between wine price and wine rating to see if the former influences the latter. I extracted the data from the web and then built and trained a linear regression ML model to make predictions about the future. I also want to support other coders who are wine lovers just like me and are willing to train their own regressor!🗺️🔎👣
+The goal was to explore the correlation between wine price and wine rating to see if the former influences the latter. I extracted the data from the web and then built and trained a linear regression ML model to make predictions about wine rating given their price. I also want to support other coders who are wine lovers just like me and are willing to train their own regressor!🗺️🔎👣
 
 I used a red-wine dataset available on Kaggle, made up of 8666 datapoints. I then explored the data, cleansed it, analysed it, and then I built and trained the model.
 
