@@ -2,4 +2,4 @@ pandas
 numpy
 math
 matplotlib
-plotly.expressp
+plotly
