@@ -1,6 +1,16 @@
 # tipsy_regression
 Building a simple linear regression model to explore the relationship between wine price and its sales!🍷
 
+# Table of Contents
+- General Info
+- Setup
+- Usage
+- Challenges
+- Project Results 
+- Future Data Exploration Ideas
+- Acknowledgements
+- Contact
+
 # General Information
 I’m uploading the code of the linear regression model I trained on wine data!💻🍷
 
@@ -21,7 +31,7 @@ First off, make sure you have conda🐍👀:
 Check out the `wine_sales_project.ipynb` file in my repo to see how I've processed the data, built and trained the model!
 
 
-Challenges
+# Challenges
 The main challenge was finding a good feature engineering solution to use to make the data available for model training. For this project, I filtered the data by the prices that are lower than 100. This removes outliers in the data, which allows us to find better signal in the data. 
 
 Project Results
