@@ -38,10 +38,10 @@ The main challenge was finding a good feature engineering solution to use to mak
 I trained a simple Linear Regression model three times. I gradually filtered the data according to the price of the wine (i.e., initially it was under £500, then £250, up to £100). From the graph in the `plotted_model.png` file, we can see the relationship between the price variable and the rating variable, which is positive. The higher the price, the higher the rating. At higher prices, the rating and price are linearly related, whereas as the price starts decreasing, it's less linearly related. At higher prices, the rate of change of the rating is relatively constant. As the price goes down, the rating seems to go down faster. This means that the linear model might not be the best way to use to fit this data.
 
 # Future Data Exploration Ideas
-We could try to train a different machine learning model which could fit this data better.
+We could try to train a different machine learning model which could fit this data better (e.g., decision trees🌳, random forests🌲🌳🌴, K-nearest neighbours👪🏠, etc.). We could even experiment with different independent variables, rather than the price. For example, does the country of origin of the wine influence its rating?🌏🔎
 
 # Acknowledgements
 A massive thank you to Ward Haddadin for your support! Training my first linear regression model wouldn't have been possible if it wasn't for your words of encouragement!
 
 # Contact
-For any question, drop me a line at giorgiadt14@gmail.com and I'll be happy to help you out! Feel free to message me on LinkedIn too! Happy coding!
+For any question, drop me a line at giorgiadt14@gmail.com and I'll be happy to help you out! Feel free to message me on [LinkedIn](https://www.linkedin.com/in/giorgia-dim/) too! Happy coding!💻
