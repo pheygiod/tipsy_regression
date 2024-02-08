@@ -28,7 +28,7 @@ First off, make sure you have conda🐍👀:
 `pip install -r requirements.txt`
 
 # Usage
-Check out the `wine_sales_project.ipynb` file in my repo to see how I've processed the data, built and trained the models!
+Check out the `wine_sales_project.ipynb` file in my repo to see how I've processed the data, built and trained the models! Click also on `plotted_model.png` if you want to look at the linear regression graph!
 
 
 # Challenges
